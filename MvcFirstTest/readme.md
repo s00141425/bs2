@@ -1,1 +1,3 @@
-﻿###My First MVC App
+﻿###Out First ASP.NET MVC Application
+
+This is my first Read me file
